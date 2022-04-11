@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Vince9322@gmail.com
+	name = Vincent Ramos
